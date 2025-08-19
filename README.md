@@ -35,8 +35,7 @@ It provides users with the ability to **add tasks, search tasks, filter tasks, v
 ---
 
 ## UI Screenshot
-
-
+<img src="https://github.com/adnanflutterdev/pocket_tasks/blob/main/ui_screenshot.jpg?raw=true?raw" height=400>
 ---
 
 
