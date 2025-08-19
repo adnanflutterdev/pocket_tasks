@@ -38,18 +38,6 @@ It provides users with the ability to **add tasks, search tasks, filter tasks, v
 <img src="https://github.com/adnanflutterdev/pocket_tasks/blob/main/ui_screenshot.jpg?raw=true?raw" height=400>
 ---
 
-
-## Code Highlights
-
-- **State Management**: Uses `Flutter_riverpod` providers for tasks, filters, search, and completion status.
-- **Snackbar Utility**: Centralized snackbar widget for success, error, and undo actions.
-- **Custom Widgets**:
-  - `CustomTextField` for consistent styled input.
-  - `CirclePainter` for custom circular progress indicator.
-  - `button` for reusable button styles.
-
----
-
 ## Example Flow
 
 1. User enters **“Buy groceries”** in the input field → presses **Add**.
